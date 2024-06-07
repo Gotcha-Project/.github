@@ -38,9 +38,13 @@ Exato, contudo o mecanismo pub sub é o RabbitMQ que também tem o seu container
 
 Portanto como "análise" seria colocarem o RabbitMq e mais dois microserviços a tentar comunicar entre eles 
 
-
-
 Tecnologias a usar:
 - Docker
 - .NET
 - Angular
+
+
+RabbitMQ Comunicação entre Microservices:
+https://learn.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/rabbitmq-event-bus-development-test-environment
+
+![image](https://github.com/Gotcha-Project/.github/assets/97791234/649f7acf-a69c-40c9-a19c-b04ad2abf6e2)
